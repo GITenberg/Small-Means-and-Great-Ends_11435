@@ -1,5 +1,8 @@
 _repo: Small-Means-and-Great-Ends_11435
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Adams, M. H. (Mary Hall)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3982'
     url: http://www.gutenberg.org/2009/agents/3982
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11435#Small-Means-and-Great-Ends
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
